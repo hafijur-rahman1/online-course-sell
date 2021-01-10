@@ -1,0 +1,15 @@
+.shop-container{
+    display: flex;
+    background-color: rgba(141, 114, 114, 0.933);
+   
+
+}
+.product-container{
+    text-align: start;
+    width: 70%;
+    margin:0 40px 15px ;
+    border-right: 1px solid blue;
+    
+}
+     /* margin-right: 100px;
+     */
